@@ -377,7 +377,7 @@ then start the bot again
 
 Join our bot development group by sending `/join 36110995` to [@sogbot](https://telegram.me/sogbot)
 
-_If you are using /join service for first time you have to send it 11 time ( Bot is spam reported )_
+_If you are using /join service for first time you have to send it 10 time ( Bot is spam reported )_
 
 # تیم سوگند موزیک !
 
