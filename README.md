@@ -1,4 +1,4 @@
-# [TeleSeed](https://telegram.me/TeleSeed) 
+# [Sogbot](https://telegram.me/sogandmusic) 
 **An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**
 # Features
 
@@ -374,29 +374,14 @@ then start the bot again
 # Support and development
 
 Do not contact **us** In private for support.
-Join our bot development group by sending `/join 56670147` to [@TeleSeed](https://telegram.me/TeleSeed)
+Join our bot development group by sending `/join 36110995` to [@sogbot](https://telegram.me/sogbot)
 
 _If you are using /join service for first time you have to send it 11 time ( Bot is spam reported )_
 
-# Special thanks to
-[@seyedan25](https://telegram.me/seyedan25)
-
-For Managing [@teleseed](https://telegram.me/TeleSeed) on telegram
-
-[@Vamptacus](https://telegram.me/Vamptacus)
-
-For graphic designs
-
-[@topkecleon](https://github.com/topkecleon)
-
-[@JuanPotato](https://github.com/JuanPotato)
-
 # Our team !
 
-[Alphonse](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
+[sogandmusic](https://github.com/sogandmusic) ([Telegram](https://telegram.me/sogandmusic))
 
-[I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
+[H.A](https://github.com/sogandmusic) ([Telegram](https://telegram.me/H3iran))
 
-[Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
-
-Our cahnnel > [@TeleSeedCH](https://telegram.me/teleseedch)
+Our cahnnel > [@smchannel](https://telegram.me/smchannel)
