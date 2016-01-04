@@ -25,7 +25,7 @@
 ### Group creation
 >/creategroup [group name]
 >
->>/creategroup SEED
+>>/creategroup SM
 >>>will create a group
 >>>
 >>>_Only works in realms But sudo users can use it everywhere_
@@ -57,7 +57,7 @@
 
 ### Setting Group name in realm 
 > /setname [Group_id] [text]
->>/setname 123456789 SEED
+>>/setname 123456789 SM
 >>>This command will set [text] as name of [Group_id]
 
 ### Setting rules in realm
@@ -136,7 +136,7 @@
 >>>This command will set [User_id] as the owner of [group_id]
 
 ### Bot stats 
->/stats teleseed
+>/stats sogand
 >>This command will return bot stats
 
 ## owners and mods commands
@@ -197,7 +197,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### Changing Group name
 >/setname [name]
->>/setname SEED
+>>/setname sm
 >>>This command will set [name] as name of groups
 
 ### Group link
@@ -315,7 +315,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### change name|rules|name
 >/changename [group_id] [name]
->>/changename 123456789 SEED
+>>/changename 123456789 SM
 >
 >/changrules [group_id] [rules]
 >>/changrules 123456789 rules !
@@ -343,8 +343,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # lets install the bot
 cd $HOME
-git clone https://github.com/SEEDTEAM/TeleSeed.git
-cd TeleSeed
+git clone https://github.com/sogandmusic/sogbot.git
+cd sogbot
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
