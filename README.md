@@ -371,14 +371,14 @@ realm = {},--Realms Id
 then start the bot again
 
 
-# Support and development
+# ساپورت فارسی سوگند موزیک
 
-Do not contact **us** In private for support.
+برای ورود به ساپورت فارسی سوگند موزیک به یوزر ربات 10 استیکر بدید و به ایدی زیر جوین بدید.
 Join our bot development group by sending `/join 36110995` to [@sogbot](https://telegram.me/sogbot)
 
 _If you are using /join service for first time you have to send it 11 time ( Bot is spam reported )_
 
-# Our team !
+# تیم سوگند موزیک !
 
 [sogandmusic](https://github.com/sogandmusic) ([Telegram](https://telegram.me/sogandmusic))
 
