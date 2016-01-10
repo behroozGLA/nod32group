@@ -1,6 +1,6 @@
 # [Sogbot](https://telegram.me/sogandmusic) 
 **An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**
-# Features
+# امکانات
 
 * **A powerful Anti spam with custom sensitivity For each group**
 * **Multiple Realms(admin groups)**
@@ -14,7 +14,7 @@
 * **Invite by username**
 * **Group administration in bots private**
 * **Only mods,owner and admin can add bots**
-* **Arabic lock**
+* **قفل متن عربی**
 * **And ...**
 
 
