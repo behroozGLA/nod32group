@@ -2,7 +2,7 @@
 **An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**
 # امکانات
 
-* **A powerful Anti spam with custom sensitivity For each group**
+* **ضد اسپم قدرتمند با حساسیت های سفارشی برای هر گروه**
 * **Multiple Realms(admin groups)**
 * **recalcitrant to any kind of spamming(Xy bots,name|photo changers and ...)**
 * **Global ban**
@@ -15,7 +15,7 @@
 * **Group administration in bots private**
 * **Only mods,owner and admin can add bots**
 * **قفل متن عربی**
-* **And ...**
+* **و ...**
 
 
 
