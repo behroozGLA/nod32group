@@ -19,7 +19,7 @@
 
 
 
-# Commands 
+# دستورات
 ## Admins commands
 **Only admins and sudo users can run these commands**
 ### Group creation
